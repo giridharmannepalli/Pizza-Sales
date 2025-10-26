@@ -7,7 +7,7 @@
 ## 🖼️ Dashboard Preview
 
 ### **Preview 1 – Overview Dashboard**
-![Pizza Sales Report Overview](./Screenshot_2025-10-27_024019.png)
+![Pizza Sales Report Overview](preview_1.png)
 
 ### **Preview 2 – Performance Dashboard**
 ![Pizza Sales Report Performance]((https://github.com/giridharmannepalli/Pizza-Sales/blob/main/Preview_2.png))
