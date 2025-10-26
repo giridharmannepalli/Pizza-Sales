@@ -136,6 +136,8 @@ This dashboard is ideal for:
 - Supporting data-driven marketing & inventory decisions
 
 ---
+## Demos
+So what the dashboard looks like :https://app.powerbi.com/view?r=eyJrIjoiNWRjMDEzZmQtZWZjMi00OTU1LWE3NTYtNzJmNjg1YjNjODA0IiwidCI6ImNkNTRlMDgyLTdjMWEtNGExNS1hZTIyLWJlMDdkOTcxZTgxMSJ9
 
 ## 🧠 Summary
 The dashboard effectively highlights sales insights for a pizza business over a year, helping stakeholders optimize inventory, pricing, and marketing strategies based on **data-backed decisions**.
